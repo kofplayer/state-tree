@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateTree", "StateTree\StateTree.csproj", "{5C930D7C-53D8-498B-918C-A6E115BB9F33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StateTreeTest", "StateTreeTest\StateTreeTest.csproj", "{B64DACCF-9CE6-4241-AC77-5C6B829B866F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5C930D7C-53D8-498B-918C-A6E115BB9F33}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C930D7C-53D8-498B-918C-A6E115BB9F33}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C930D7C-53D8-498B-918C-A6E115BB9F33}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C930D7C-53D8-498B-918C-A6E115BB9F33}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B64DACCF-9CE6-4241-AC77-5C6B829B866F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B64DACCF-9CE6-4241-AC77-5C6B829B866F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B64DACCF-9CE6-4241-AC77-5C6B829B866F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B64DACCF-9CE6-4241-AC77-5C6B829B866F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
